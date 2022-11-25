@@ -1,0 +1,40 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Nike Air Max 270",
+            "gender": "men",
+            "brend": "nike",
+            "category": "street",
+            "price": 8000,
+            "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsneaks.shop%2Fproduct%2F231645&psig=AOvVaw0XOY2ZkBDLbLy7fTY3uDJE&ust=1669201938237000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCf4oP8wfsCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 2,
+            "title": "HYBRID NX Men's Running Shoes",
+            "gender": "men",
+            "brend": "puma",
+            "category": "runnig",
+            "price": 15000,
+            "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.puma.com%2Fin%2Fen%2Fpd%2Fhybrid-nx-mens-running-shoes%2F192259.html&psig=AOvVaw1rxh19WYgOmgfQgT6O8WYL&ust=1669202095448000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiiis78wfsCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": 3,
+            "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+            "gender": "men",
+            "brend": "adidas",
+            "category": "running",
+            "price":20000,
+            "images": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e2e35004ec594c93a593ae85011d8e5d_9366/Mahomes_1_Impact_FLX_Shoes_Red_GZ5006.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+            "gender": "men",
+            "brend": "new balance",
+            "category": "training",
+            "price": 10000,
+            "images": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newbalance.com%2Fpd%2F574-core%2FWL574V3-40378.html&psig=AOvVaw3t_1iDKxZqqjRuQct3rkKy&ust=1669202499908000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjyk4_-wfsCFQAAAAAdAAAAABAE"
+        }
+    ]
+}

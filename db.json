@@ -1,0 +1,49 @@
+{
+  "shoes": [
+      {
+          "id": 1,
+          "title": "Nike Air Max 270",
+          "gender": "men",
+          "brend": "nike",
+          "category": "street",
+          "price": 8000,
+          "images": "https://mi-shop.kg/wp-content/uploads/2019/08/mijia-retro-shoes-gray-1.jpg"
+      },
+      {
+          "id": 2,
+          "title": "HYBRID NX Men's Running Shoes",
+          "gender": "men",
+          "brend": "puma",
+          "category": "runnig",
+          "price": 15000,
+          "images": "https://mi-shop.kg/wp-content/uploads/2019/08/mijia-retro-shoes-blue-1.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+          "gender": "men",
+          "brend": "adidas",
+          "category": "running",
+          "price":20000,
+          "images": "https://cdn.bazar.kg/bazar/images/6/8/2/682f567eaf7cad09cbacc7ef503c98aa_640x480.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+          "gender": "men",
+          "brend": "new balance",
+          "category": "training",
+          "price": 10000,
+          "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJFPPjkdmc8ZnSlqtm73j_2xXoonPzMuFgw&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+        "gender": "women",
+        "brend": "new balance",
+        "category": "training",
+        "price": 10000,
+        "images": "https://web.imd.kg/files/photo/22989.jpg"
+    }
+  ]
+}
